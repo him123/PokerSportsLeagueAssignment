@@ -1,4 +1,4 @@
-# Mini Car Invetory Flutter application - Assigenment for Poker Sports League (PSL) 
+# Mini Car Inventory System Flutter App - Assigenment for Poker Sports League (PSL) 
 
 ### Deployment instructions
 
@@ -9,6 +9,13 @@
 ~Step 3: Get dependencies when it asks
 
 ~Step 4: In Android Studio go to > File > Project Structure > Select Project SDK -Android API 29 Platforms(9)
+
+## Code Information
+
+~App is mainly divided by 7 packages 
+
+bloc|constants|dao|database|model|repository|ui
+|---|---|---|---|---|---|---|
 
 ## Dependencies used
 
